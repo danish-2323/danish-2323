@@ -1,0 +1,26 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update timestamp
+        run: |
+          DATE=$(date)
+          sed -i "s|Automatically updated by workflow|Last updated: $DATE|g" README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "danish-2323"
+          git config --global user.email "danish-2323@users.noreply.github.com"
+          git add README.md
+          git commit -m "update: README timestamp" || echo "No changes"
+          git push
