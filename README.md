@@ -178,6 +178,16 @@ I'm not optimizing for grades. I'm optimizing for **capability**.
 
 ---
 
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![snake gif](https://github.com/danish-2323/danish-2323/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
 ## 🔗 Connect
 
 <div align="center">
