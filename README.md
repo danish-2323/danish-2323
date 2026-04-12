@@ -182,9 +182,9 @@ I'm not optimizing for grades. I'm optimizing for **capability**.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=danish)](https://linkedin.com/in/your-linkedin-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=danish)](https://www.linkedin.com/in/danishm23/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff&label=coming+soon)](https://github.com/danish-2323)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&label=reach+out)](mailto:your-email@here.com)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&label=reach+out)](mailto:danishmoosashameem@gmail.com)
 
 </div>
 
